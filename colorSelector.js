@@ -1,3 +1,11 @@
+/**
+ * 作者(Author)：tidra
+ * 作者URI(Author URI)：https://www.tidnotes.ga
+ * 版本(Version)：1.0
+ * 许可证(License)：GNU通用公共许可证v3.0或更高版本(GNU General Public License v3.0 or later)
+ * 许可证URI(License URI)：https://github.com/Tidra/ColorSelector-for-HTML/blob/master/LICENSE
+ */
+
 function createBox() {
     var htmlText = '<div class="color-box"><div style="position: relative;margin-right: 20px;"><canvas class="colorbck" id="colorbck" width="255" height="255"></canvas><div class="it" id="it"></div></div><div style="position: relative;margin-right: 20px;"><canvas class="colorbar" id="colorbar" width="10" height="255"></canvas><div class="choose-it" id="choose-it"><div></div></div></div><div style="line-height: 30px;"><b>当前选择颜色：</b><div id="show"></div><div id="showColor"></div></div></div>';
     
