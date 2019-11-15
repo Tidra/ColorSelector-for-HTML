@@ -6,6 +6,7 @@ ColorSelector-for-HTML是使用jQuery写的颜色选择器，可以引用js文�
 
 # 使用方法
 直接将[colorSelector.js](https://github.com/Tidra/ColorSelector-for-HTML/blob/master/colorSelector.js)下载到本地，在需要显示的地方用<code><script src="colorSelector.js"></script></code>即可显示颜色选择器。
+或者直接使用<code><script src="https://raw.githubusercontent.com/Tidra/ColorSelector-for-HTML/master/colorSelector.js"></script></code>
 
 # 关于（About）
 > 作者(Author)：tidra  
